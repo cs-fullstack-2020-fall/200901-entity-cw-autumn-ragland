@@ -1,0 +1,7 @@
+@model Classwork.Models.StudentModel
+<h1>View Student @Model.id</h1>
+<p>Name : @Model.name</p>
+@if(Model.classworkAvg >= 3)
+{
+    <p>This student is doing well!</p>
+}

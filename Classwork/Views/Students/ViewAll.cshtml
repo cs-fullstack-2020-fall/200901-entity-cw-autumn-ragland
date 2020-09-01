@@ -1,0 +1,11 @@
+@model Classwork.DAO.StudentDbContext
+<h1>View All Students</h1>
+@foreach (StudentModel student in @Model.students)
+{
+    <p>ID : @student.id</p>
+    <p>Name : @student.name</p>
+    @if(@student.classworkAvg >= 3)
+    {
+        <p>This student is doing well!</p>
+    }
+}

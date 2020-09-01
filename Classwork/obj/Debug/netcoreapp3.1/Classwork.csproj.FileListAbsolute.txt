@@ -75,3 +75,6 @@ C:\Users\student\Code_School\cohort5\sprint_three\dotnet\200901\200901-entity-cw
 C:\Users\student\Code_School\cohort5\sprint_three\dotnet\200901\200901-entity-cw-autumn-ragland\Classwork\obj\Debug\netcoreapp3.1\Classwork.dll
 C:\Users\student\Code_School\cohort5\sprint_three\dotnet\200901\200901-entity-cw-autumn-ragland\Classwork\obj\Debug\netcoreapp3.1\Classwork.pdb
 C:\Users\student\Code_School\cohort5\sprint_three\dotnet\200901\200901-entity-cw-autumn-ragland\Classwork\obj\Debug\netcoreapp3.1\Classwork.genruntimeconfig.cache
+C:\Users\student\Code_School\cohort5\sprint_three\dotnet\200901\200901-entity-cw-autumn-ragland\Classwork\obj\Debug\netcoreapp3.1\Razor\Views\Shared\NotFound.cshtml.g.cs
+C:\Users\student\Code_School\cohort5\sprint_three\dotnet\200901\200901-entity-cw-autumn-ragland\Classwork\obj\Debug\netcoreapp3.1\Razor\Views\Students\ViewAll.cshtml.g.cs
+C:\Users\student\Code_School\cohort5\sprint_three\dotnet\200901\200901-entity-cw-autumn-ragland\Classwork\obj\Debug\netcoreapp3.1\Razor\Views\Students\ViewOne.cshtml.g.cs

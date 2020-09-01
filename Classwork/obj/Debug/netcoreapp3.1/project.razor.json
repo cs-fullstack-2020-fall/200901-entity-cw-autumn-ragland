@@ -14392,6 +14392,21 @@
   "RootNamespace": "Classwork",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\student\\Code_School\\cohort5\\sprint_three\\dotnet\\200901\\200901-entity-cw-autumn-ragland\\Classwork\\Views\\Students\\ViewOne.cshtml",
+      "TargetPath": "Views\\Students\\ViewOne.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\student\\Code_School\\cohort5\\sprint_three\\dotnet\\200901\\200901-entity-cw-autumn-ragland\\Classwork\\Views\\Students\\ViewAll.cshtml",
+      "TargetPath": "Views\\Students\\ViewAll.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\student\\Code_School\\cohort5\\sprint_three\\dotnet\\200901\\200901-entity-cw-autumn-ragland\\Classwork\\Views\\Shared\\NotFound.cshtml",
+      "TargetPath": "Views\\Shared\\NotFound.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\student\\Code_School\\cohort5\\sprint_three\\dotnet\\200901\\200901-entity-cw-autumn-ragland\\Classwork\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
