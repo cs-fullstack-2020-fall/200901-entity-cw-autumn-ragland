@@ -1,9 +1,13 @@
+@* define model passed in when view is referenced in controller *@
 @model Classwork.DAO.StudentDbContext
 <h1>View All Students</h1>
+@* iterate through students db set property of referenced model *@
 @foreach (StudentModel student in @Model.students)
 {
+    @* for each student student display the id and name *@
     <p>ID : @student.id</p>
     <p>Name : @student.name</p>
+    @* if a student's classwork average is greater than or equal to 3 display the string *@
     @if(@student.classworkAvg >= 3)
     {
         <p>This student is doing well!</p>

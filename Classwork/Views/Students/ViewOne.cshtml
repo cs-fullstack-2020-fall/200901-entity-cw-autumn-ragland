@@ -1,6 +1,9 @@
+@* define model passed in when view is referenced in controller *@
 @model Classwork.Models.StudentModel
+@* reference id and name property *@
 <h1>View Student @Model.id</h1>
 <p>Name : @Model.name</p>
+@* if classwork avg property value is greater then *@
 @if(Model.classworkAvg >= 3)
 {
     <p>This student is doing well!</p>
